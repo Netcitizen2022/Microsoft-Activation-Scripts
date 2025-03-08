@@ -15,14 +15,6 @@
 ```
 irm https://get.activated.win | iex
 ```
-Alternatively, you can use the following (It will be deprecated in the future.)  
-```
-irm https://massgrave.dev/get | iex
-```
-3.   You will see the activation options. Choose (1) HWID for Windows activation. Choose (2) Ohook for Office activation.
-4.   That's all.
-
----
 
 ### Method 2 - Traditional (Windows 7 and later)
 
